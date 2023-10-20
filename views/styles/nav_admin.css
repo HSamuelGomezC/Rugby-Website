@@ -1,0 +1,36 @@
+.navbar{
+    font-size: 1.5rem;
+}
+
+.navbar ul li {
+    margin-left: 2rem;
+}
+
+.navbar ul li:hover {
+    background-color: rgb(163, 5, 5);
+}
+
+#bienvenida {
+    font-size: 1.5rem;
+    text-align: center;
+    padding: 1.5vh; /* Tamaño del background rojo */
+    color: white;
+}
+
+label {
+    margin-left: 1vh;
+}
+
+.preguntas {
+    margin-top: 2vh;
+    background-color: white;
+}
+
+table {
+    margin-left: 1vh;
+    margin-top: 1rem;
+}
+
+#btn_new {
+    margin-left: 0.5rem;
+}

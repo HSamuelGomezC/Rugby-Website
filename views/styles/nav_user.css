@@ -1,0 +1,38 @@
+.navbar{
+    font-size: 1.5rem;
+}
+
+.navbar ul li {
+    margin-left: 5rem;
+}
+
+.navbar ul li:hover {
+    background-color: rgb(163, 5, 5);
+}
+
+.mensaje{
+    font-size: 3vh;
+    text-align: center;
+    margin-top: 2vh; /* Separar hacia abajo */
+    padding: 1.5vh 6vh; /* Tamaño del background rojo */
+    background-color: red;
+    color: white;
+}
+
+#bienvenida {
+    font-size: 1.5rem;
+    text-align: center;
+    padding: 1.5vh; /* Tamaño del background rojo */
+    color: white;
+}
+
+/* Texto cuestionario */
+
+#cuestionario_1 {
+    background-color: white;
+}
+
+.cuestionario_2 {
+    background-color: white;
+}
+

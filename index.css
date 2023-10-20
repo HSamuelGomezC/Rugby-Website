@@ -1,0 +1,16 @@
+.mensaje{
+    font-size: 3vh;
+    text-align: center;
+    margin-top: 2vh; /* Separar hacia abajo */
+    padding: 1.5vh 6vh; /* Tamaño del background rojo */
+    background-color: red;
+    color: white;
+}
+
+#x_1 {
+    padding-right: 2vh;
+}
+
+#x_2 {
+    padding-left: 2vh;
+}
